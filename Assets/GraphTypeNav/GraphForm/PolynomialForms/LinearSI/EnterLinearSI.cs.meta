@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee91031020997524a82d97e7752ba3b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LSISlopeValue: {instanceID: 0}
+  - LSIYIntValue: {instanceID: 0}
+  - linePrefab: {instanceID: 0}
+  - newLine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
